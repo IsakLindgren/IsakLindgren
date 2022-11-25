@@ -14,7 +14,9 @@
 ---
 
 ### 👨‍💻: About Me :
-👨‍🎓 I am a Highschool student in the Thecnology programme at Realgymnasiet in Sweden
+👋 My name is Isak Lindgren
+
+👨‍🎓 I am a Highschool student in the Thechnology programme at Realgymnasiet in Sweden
 
 - 📜 I'm Learning how to code programs and websites.
 - 🔍 I like to learn about different technologies, and how they work.
